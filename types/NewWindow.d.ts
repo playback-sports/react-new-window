@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-declare module 'react-new-window' {
+declare module '@playback-sports/react-new-window' {
   type EventHandler = () => void
   type OpenEventHandler = (window: Window) => void
 
