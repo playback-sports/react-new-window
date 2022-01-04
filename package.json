@@ -1,5 +1,5 @@
 {
-  "name": "react-new-window",
+  "name": "@playback-sports/react-new-window",
   "description": "Pop a new window in React, using window.open API",
   "version": "0.2.2-playback.1",
   "keywords": [
